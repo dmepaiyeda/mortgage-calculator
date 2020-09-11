@@ -1,0 +1,12 @@
+.app-padding{
+  padding: '2em' !important;
+}
+
+.fill-box{
+  background-color: green;
+  color: white;
+}
+
+.summary-margin{
+  margin: '6em';
+}
